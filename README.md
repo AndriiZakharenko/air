@@ -5,6 +5,5 @@
 - The page was adapted to the desktop, tablet and mobile version
 - HTML, SCSS, JS technologies were used
 - Burger menu
-- Semantic HTML, BEM
+- Semantic HTML, BEM, Grid, Flex
 - Forms + validation
-
