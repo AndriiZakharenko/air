@@ -1,8 +1,21 @@
-# Air
+# Kickstarter
 
-- HTML, CSS (SCSS), JS
-- BEM
+### Description
+
+- Created a landing page
+
+### Stack
+
+- HTML (BEM)
+- CSS (SCSS)
+- JS
 - Adaptive
+
+### Tools
+
+- ESlint
+- Jest
+- Prettier
 - Parcel
 
 ## Demo Links
